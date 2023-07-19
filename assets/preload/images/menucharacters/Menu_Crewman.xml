@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Crewman.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Purple IDLE Dance0000" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0001" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0002" x="475" y="25" width="418" height="380" frameX="-7" frameY="0" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0003" x="918" y="25" width="418" height="378" frameX="-7" frameY="-2" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0004" x="1361" y="25" width="421" height="377" frameX="-2" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0005" x="25" y="430" width="421" height="377" frameX="-2" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0006" x="471" y="430" width="423" height="377" frameX="-1" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0007" x="919" y="430" width="423" height="377" frameX="-1" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0008" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0009" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0010" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0011" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0012" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0013" x="25" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+</TextureAtlas>

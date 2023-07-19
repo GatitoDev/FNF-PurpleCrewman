@@ -1,0 +1,2 @@
+Every time the opponent touches a key automatically,
+it will drain your life

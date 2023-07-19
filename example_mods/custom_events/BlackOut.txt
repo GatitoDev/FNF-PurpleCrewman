@@ -1,0 +1,5 @@
+Black Screen, the event is very easy.
+(Value 1 = 1): Visible
+(Value 1 = 2): Invisible
+
+(Event edit by GatitoDev)

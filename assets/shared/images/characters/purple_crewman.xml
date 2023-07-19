@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purple_crewman.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Purple DOWN Note0000" x="25" y="25" width="385" height="371" frameX="0" frameY="-13" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0001" x="25" y="25" width="385" height="371" frameX="0" frameY="-13" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0002" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0003" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0004" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0005" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0006" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0007" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0008" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0009" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0010" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0011" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0012" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0013" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple DOWN Note0014" x="435" y="25" width="382" height="384" frameX="0" frameY="0" frameWidth="385" frameHeight="384"/>
+	<SubTexture name="Purple IDLE Dance0000" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0001" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0002" x="1292" y="25" width="418" height="380" frameX="-7" frameY="0" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0003" x="25" y="434" width="418" height="378" frameX="-7" frameY="-2" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0004" x="468" y="434" width="421" height="377" frameX="-2" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0005" x="914" y="434" width="421" height="377" frameX="-2" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0006" x="1360" y="434" width="423" height="377" frameX="-1" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0007" x="25" y="837" width="423" height="377" frameX="-1" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0008" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0009" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0010" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0011" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0012" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple IDLE Dance0013" x="842" y="25" width="425" height="377" frameX="0" frameY="-3" frameWidth="425" frameHeight="380"/>
+	<SubTexture name="Purple LEFT Note0000" x="473" y="837" width="387" height="373" frameX="0" frameY="-1" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0001" x="473" y="837" width="387" height="373" frameX="0" frameY="-1" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0002" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0003" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0004" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0005" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0006" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0007" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0008" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0009" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0010" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0011" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0012" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple LEFT Note0013" x="885" y="837" width="382" height="374" frameX="-4" frameY="0" frameWidth="387" frameHeight="374"/>
+	<SubTexture name="Purple RIGHT Note0000" x="1292" y="837" width="377" height="377" frameX="-7" frameY="0" frameWidth="385" frameHeight="377"/>
+	<SubTexture name="Purple RIGHT Note0001" x="1292" y="837" width="377" height="377" frameX="-7" frameY="0" frameWidth="385" frameHeight="377"/>
+	<SubTexture name="Purple RIGHT Note0002" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0003" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0004" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0005" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0006" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0007" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0008" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0009" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0010" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0011" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0012" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple RIGHT Note0013" x="25" y="1239" width="385" height="377"/>
+	<SubTexture name="Purple UP Note0000" x="435" y="1239" width="385" height="384" frameX="0" frameY="0" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0001" x="435" y="1239" width="385" height="384" frameX="0" frameY="0" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0002" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0003" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0004" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0005" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0006" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0007" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0008" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0009" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0010" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0011" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0012" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+	<SubTexture name="Purple UP Note0013" x="845" y="1239" width="390" height="379" frameX="0" frameY="-5" frameWidth="390" frameHeight="384"/>
+</TextureAtlas>

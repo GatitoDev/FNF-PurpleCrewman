@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Purple IDLE Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-237
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Purple LEFT Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-227
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Purple DOWN Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-227
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Purple UP Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-233
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Purple RIGHT Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purple_crewman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "purple-crewman",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		10,
+		229
+	],
+	"camera_position": [
+		-20,
+		320
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

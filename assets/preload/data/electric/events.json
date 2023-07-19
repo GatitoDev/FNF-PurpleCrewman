@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "electricity",
+		"player1": "bf",
+		"player2": "purple-crewman",
+		"player3": null,
+		"events": [
+			[
+				400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"4"
+					]
+				]
+			],
+			[
+				1900,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"2"
+					]
+				]
+			],
+			[
+				4300,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				5600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"4"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				20800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"4"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "electric"
+	}
+}

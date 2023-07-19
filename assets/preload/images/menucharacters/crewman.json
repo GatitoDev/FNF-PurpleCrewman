@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "idle",
+	"idle_anim": "Purple IDLE Dance",
+	"position": [
+		90,
+		10
+	],
+	"scale": 0.95,
+	"flipX": false,
+	"image": "Menu_Crewman"
+}
